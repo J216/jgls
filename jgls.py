@@ -44,7 +44,7 @@ levels = np.tile([-5, 5, -3, 3, -1, 1],
 
 # Create figure and plot a stem plot with the date
 fig, ax = plt.subplots(figsize=(8.8, 4))
-ax.set(title="Matplotlib release dates")
+ax.set(title="JGLS - File Date/Timeline")
 
 markerline, stemline, baseline = ax.stem(dates, levels,
                                          linefmt="C3-", basefmt="k-",
