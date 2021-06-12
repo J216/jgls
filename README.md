@@ -1,7 +1,7 @@
 ![alt text](https://github.com/J216/simple_tag_replace/raw/master/jsi-logo-256.png "JSI Logo")
 # jgls
 
-Visualize the dates of your files with this amature forensic tool.
+Visualize the dates of your files with this amateur forensic tool.
 
 JGLS(Jay-Glass) - Graph folders and files on a timeline using matplotlib and ls 
 
